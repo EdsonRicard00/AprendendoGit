@@ -5,5 +5,7 @@ para atualizar as configurações no git hub ( git add . )
 para comentar sobre alteração feita  (git commit -m "corrige bug na tela de login")
 
 
-para subir a atualização -( git push -u origin main )
+para subir a atualização -u quando é a primeira vez  -( git push -u origin main )
+
+para as outras vezes é apenas (git push  origin main)
  
